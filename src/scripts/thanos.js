@@ -1,5 +1,5 @@
-import { PATH_DB } from '../constants/contacts.js';
+// import { PATH_DB } from '../constants/contacts.js';
 
-export const thanos = async () => {};
+// export const thanos = async () => {};
 
-await thanos();
+// await thanos();

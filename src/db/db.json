@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "Natasha Ruecker",
+    "phone": "(383) 892-3210 x1269",
+    "email": "Ellis.Jaskolski@yahoo.com",
+    "job": "Senior Program Architect"
+  },
+  {
+    "name": "Dr. Claude Parisian Sr.",
+    "phone": "318-319-4686",
+    "email": "Reymundo77@hotmail.com",
+    "job": "Direct Brand Designer"
+  },
+  {
+    "name": "Tracey Smith",
+    "phone": "(259) 619-1597 x23867",
+    "email": "Giovanna.Greenholt@hotmail.com",
+    "job": "Future Accountability Director"
+  },
+  {
+    "name": "Ruby King",
+    "phone": "1-325-878-5978 x16903",
+    "email": "Alf_Adams@gmail.com",
+    "job": "International Optimization Representative"
+  },
+  {
+    "name": "Diana Bechtelar",
+    "phone": "783.402.4715",
+    "email": "Lawson39@gmail.com",
+    "job": "Internal Response Producer"
+  },
+  {
+    "name": "Josh Batz",
+    "phone": "893.324.6362 x225",
+    "email": "Mose_Lueilwitz@yahoo.com",
+    "job": "Global Optimization Liaison"
+  },
+  {
+    "name": "Freda Osinski",
+    "phone": "856.829.8868 x984",
+    "email": "Elfrieda.Wolf@hotmail.com",
+    "job": "Customer Interactions Planner"
+  },
+  {
+    "name": "Pete Mueller",
+    "phone": "515.623.7716 x1905",
+    "email": "Haylee_Hilpert26@yahoo.com",
+    "job": "Investor Group Planner"
+  }
+]

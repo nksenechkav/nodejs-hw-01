@@ -1,5 +1,5 @@
-import { PATH_DB } from '../constants/contacts.js';
+// import { PATH_DB } from '../constants/contacts.js';
 
-export const addOneContact = async () => {};
+// export const addOneContact = async () => {};
 
-await addOneContact();
+// await addOneContact();
