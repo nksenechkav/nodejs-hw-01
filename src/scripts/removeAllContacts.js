@@ -13,4 +13,3 @@ export const removeAllContacts = async () => {
 
 // Execute the removeAllContacts function when the script is run
 await removeAllContacts();
-
