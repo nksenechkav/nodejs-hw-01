@@ -9,7 +9,7 @@ const generateContacts = async (number) => {
     const contacts = JSON.parse(data);
 
     // Generate new contacts
-    for (let i = 0; i < number; i++) {
+    for (let i = 0; i < number; i+=1) {
       const newContact = createFakeContact();
       contacts.push(newContact);
     }
